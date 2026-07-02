@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Kai Denham 👋</h1>
-
-<p align="center">
-  <b>Full-Stack Software Engineer &nbsp;•&nbsp; AI Automation Engineer</b><br>
-  Building reliable, scalable web apps and AI-driven systems that eliminate manual work.
-</p>
+<!-- Animated gradient header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:092E20&height=200&section=header&text=Kai%20Denham&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Automation%20Engineer&descAlignY=58&descSize=18" alt="header banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+on+the+frontend;Node.js+%26+Python+on+the+backend;RAG+pipelines+%26+LLM+integration;Cloud-native+on+AWS" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kindport&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 
 ## 🧭 About Me
 
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhishek-nemade/abhishek-nemade/main/coding.gif" alt="coding animation" />
+
 Full-stack engineer who ships production web applications and AI-powered automation end to end — from system architecture and development through deployment and maintenance. I focus on building things that are reliable, scalable, and genuinely useful: internal tools and customer-facing systems that remove manual work and automate the parts that shouldn't need a human.
 
 - 🔭 Working across **React / Next.js**, **Node.js**, and **Python / Django**
@@ -27,6 +29,8 @@ Full-stack engineer who ships production web applications and AI-powered automat
 - ☁️ Comfortable owning infrastructure on **AWS** (Lambda, EC2, S3, Cognito, Amplify)
 - 🎨 Design-aware — I care about UX, not just the code behind it
 - 📍 Based in Happy Valley, OR — **remote-first**
+
+<br clear="right"/>
 
 ---
 
@@ -114,15 +118,24 @@ Pin your best repositories on your profile, then optionally link them here:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kindport&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<!-- Animated trophy showcase -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kindport&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
+</p>
+
+<!-- Animated contribution activity graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kindport&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="Contribution activity graph" />
+</p>
+
+<!-- Contribution snake animation (requires the snake GitHub Action — setup note below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kindport/Kindport/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
 ---
 
-## 💼 Experience Snapshot
-
-| Role | Company | When |
-|------|---------|------|
-| Backend Engineer | BrightBox Agency (Remote) | Nov 2024 – May 2026 |
-| Frontend Engineer | Atlas Dev Solutions (Remote) | May 2023 – Oct 2024 |
-| Full-Stack / AI Automation Engineer | Cascade Media Group (Hybrid) | Sep 2022 – Mar 2023 |
+## 🎓 Education
 
 🎓 **B.S. Computer Science** — Portland State University, Maseeh College of Engineering & Computer Science (2018–2022)
 
@@ -135,3 +148,5 @@ I'm open to remote opportunities and collaboration on interesting problems.
 📧 **kaidenham.pro@gmail.com**
 
 <p align="center"><i>Thanks for stopping by — feel free to explore the pinned repos below.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:2F81F7&height=120&section=footer" alt="footer banner" />
