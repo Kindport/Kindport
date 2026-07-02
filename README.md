@@ -107,39 +107,6 @@ Pin your best repositories on your profile, then optionally link them here:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kindport&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kai's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kindport&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kindport&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<!-- Animated trophy showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kindport&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-</p>
-
-<!-- Animated contribution activity graph -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kindport&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=ffffff&area=true" alt="Contribution activity graph" />
-</p>
-
-<!-- Contribution snake animation (requires the snake GitHub Action — setup note below) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kindport/Kindport/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
-
----
-
-## 🎓 Education
-
-🎓 **B.S. Computer Science** — Portland State University, Maseeh College of Engineering & Computer Science (2018–2022)
-
----
 
 ## 📫 Get in Touch
 
